@@ -5,7 +5,7 @@ import AboutPopup from "./popup/AboutPopup";
 const aboutData = {
   firstName: "Harry",
   lastName: "Perry",
-  bithday: "01.07.1990",
+  bithday: "01.07.19901",
   address: "Avon str. 22, NYC, USA",
   phn: "+77 022 155 02 02",
   email: "example@gmail.com",
